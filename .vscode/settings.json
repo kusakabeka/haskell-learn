@@ -1,0 +1,7 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 16,
+    "editor.tabSize": 8,
+    "editor.renderWhitespace": "all",
+    "editor.wordWrap": "on"
+}
